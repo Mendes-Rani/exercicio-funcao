@@ -1,4 +1,4 @@
-package funcao;
+package classes;
 
 public class Fatorial {
 
